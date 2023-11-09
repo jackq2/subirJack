@@ -2,6 +2,7 @@
 -- version 5.2.0
 -- https://www.phpmyadmin.net/
 --
+-- //ejemplo del cambio 
 -- Host: localhost:3306
 -- Generation Time: Sep 15, 2023 at 04:30 PM
 -- Server version: 8.0.33
